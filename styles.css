@@ -1,0 +1,54 @@
+body{
+    background-image: url(https://www.visitdalarna.se/sites/cb_dalarna/files/styles/article_slide_large/public/20190919-205147_JS467_4845.jpg?h=3ac4a762&itok=k7t7TV-b);
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: blue;
+    background-size: 20px;
+
+
+}
+h2{
+    color: blue;
+    
+}
+h3{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border:blue
+
+}
+.halva{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+label{
+    color: blue;
+}
+p{
+    color: blue;
+}
+a{
+    color: blue;
+}
+
+
+.error{
+    float: right;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hel{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    border-color: blue;
+    border-block-color: white;
+    
+}
